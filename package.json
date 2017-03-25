@@ -1,0 +1,27 @@
+{
+  "name": "try_require",
+  "version": "0.0.1",
+  "description": "a stupid try_require()",
+  "main": "try_require.js",
+  "dependencies": {
+    "deasync": "^0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test_try_require.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanjochan/nodejs-try_require.git"
+  },
+  "keywords": [
+    "nodejs",
+    "try_require"
+  ],
+  "author": "WanjoChan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanjochan/nodejs-try_require/issues"
+  },
+  "homepage": "https://github.com/wanjochan/nodejs-try_require#readme"
+}
