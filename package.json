@@ -1,6 +1,6 @@
 {
   "name": "try_require",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a stupid try_require()",
   "main": "try_require.js",
   "dependencies": {
