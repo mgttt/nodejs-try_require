@@ -1,2 +1,3 @@
-# nodejs-try_require
-一个好无聊的包 try_require
+# TODO
+make npm package as try_require
+depends desync
